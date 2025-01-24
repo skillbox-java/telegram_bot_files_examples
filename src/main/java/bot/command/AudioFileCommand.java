@@ -1,5 +1,6 @@
 package bot.command;
 
+import bot.FileCache;
 import files.ResourceFileReader;
 import org.telegram.telegrambots.meta.api.methods.send.SendAudio;
 import org.telegram.telegrambots.meta.api.objects.InputFile;
@@ -8,8 +9,8 @@ import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import org.telegram.telegrambots.meta.generics.TelegramClient;
 
 public class AudioFileCommand extends FileCommand {
-    public AudioFileCommand(TelegramClient client) {
-        super(client);
+    public AudioFileCommand(TelegramClient client, FileCache fileCache) {
+        super(client, fileCache);
     }
 
     @Override

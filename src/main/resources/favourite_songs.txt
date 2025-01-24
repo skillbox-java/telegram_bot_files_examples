@@ -1,1 +1,200 @@
-simple text
+"Bohemian Rhapsody" — Queen
+"Imagine" — John Lennon
+"Smells Like Teen Spirit" — Nirvana
+"Billie Jean" — Michael Jackson
+"Like a Rolling Stone" — Bob Dylan
+"Hotel California" — Eagles
+"Hey Jude" — The Beatles
+"Sweet Child o’ Mine" — Guns N’ Roses
+"Thriller" — Michael Jackson
+"Stairway to Heaven" — Led Zeppelin
+"Shape of You" — Ed Sheeran
+"Despacito" — Luis Fonsi ft. Daddy Yankee
+"Uptown Funk" — Mark Ronson ft. Bruno Mars
+"Blinding Lights" — The Weeknd
+"Rolling in the Deep" — Adele
+"Someone Like You" — Adele
+"Wonderwall" — Oasis
+"Purple Rain" — Prince
+"Yesterday" — The Beatles
+"Hallelujah" — Leonard Cohen
+"Don’t Stop Believin’" — Journey
+"I Will Always Love You" — Whitney Houston
+"Sweet Caroline" — Neil Diamond
+"Livin’ on a Prayer" — Bon Jovi
+"Dancing Queen" — ABBA
+"Take on Me" — A-ha
+"Bad Guy" — Billie Eilish
+"Shallow" — Lady Gaga & Bradley Cooper
+"Old Town Road" — Lil Nas X ft. Billy Ray Cyrus
+"Clocks" — Coldplay
+"Africa" — TOTO
+"All About That Bass" — Meghan Trainor
+"Happy" — Pharrell Williams
+"Radioactive" — Imagine Dragons
+"Thinking Out Loud" — Ed Sheeran
+"Smooth Criminal" — Michael Jackson
+"Let It Be" — The Beatles
+"Sweet Home Alabama" — Lynyrd Skynyrd
+"Smells Like Teen Spirit" — Nirvana
+"What’s Going On" — Marvin Gaye
+"Dream On" — Aerosmith
+"Every Breath You Take" — The Police
+"I Want to Hold Your Hand" — The Beatles
+"Poker Face" — Lady Gaga
+"Born in the U.S.A." — Bruce Springsteen
+"Nothing Else Matters" — Metallica
+"Crazy in Love" — Beyoncé ft. Jay-Z
+"Firework" — Katy Perry
+"Single Ladies" — Beyoncé
+"Shape of My Heart" — Sting
+"Creep" — Radiohead
+"Viva la Vida" — Coldplay
+"Mr. Brightside" — The Killers
+"Stayin’ Alive" — Bee Gees
+"Wannabe" — Spice Girls
+"My Heart Will Go On" — Céline Dion
+"No Woman, No Cry" — Bob Marley
+"I Gotta Feeling" — The Black Eyed Peas
+"Eye of the Tiger" — Survivor
+"Another Brick in the Wall" — Pink Floyd
+"Sweet Dreams" — Eurythmics
+"Seven Nation Army" — The White Stripes
+"Bohemian Like You" — The Dandy Warhols
+"Under Pressure" — Queen & David Bowie
+"Zombie" — The Cranberries
+"Umbrella" — Rihanna ft. Jay-Z
+"Hey Ya!" — OutKast
+"All Star" — Smash Mouth
+"Chandelier" — Sia
+"Can’t Stop the Feeling!" — Justin Timberlake
+"Hello" — Adele
+"Love Yourself" — Justin Bieber
+"Roar" — Katy Perry
+"Bad Romance" — Lady Gaga
+"Uptown Girl" — Billy Joel
+"I’m Yours" — Jason Mraz
+"Hips Don’t Lie" — Shakira ft. Wyclef Jean
+"The Scientist" — Coldplay
+"Sorry" — Justin Bieber
+"Take Me to Church" — Hozier
+"Let Her Go" — Passenger
+"Counting Stars" — OneRepublic
+"Shape of You" — Ed Sheeran
+"Shake It Off" — Taylor Swift
+"Blank Space" — Taylor Swift
+"We Will Rock You" — Queen
+"We Are the Champions" — Queen
+"I Kissed a Girl" — Katy Perry
+"Toxic" — Britney Spears
+"Gangnam Style" — PSY
+"Call Me Maybe" — Carly Rae Jepsen
+"Moves Like Jagger" — Maroon 5 ft. Christina Aguilera
+"Don’t Let Me Down" — The Chainsmokers ft. Daya
+"Heathens" — Twenty One Pilots
+"Stressed Out" — Twenty One Pilots
+"Believer" — Imagine Dragons
+"Havana" — Camila Cabello ft. Young Thug
+"Perfect" — Ed Sheeran
+"Despacito" — Luis Fonsi ft. Daddy Yankee
+"See You Again" — Wiz Khalifa ft. Charlie Puth
+"Cheap Thrills" — Sia ft. Sean Paul
+"Can’t Help Falling in Love" — Elvis Presley
+"I Will Survive" — Gloria Gaynor
+"Careless Whisper" — George Michael
+"Girls Just Want to Have Fun" — Cyndi Lauper
+"Lose Yourself" — Eminem
+"Stan" — Eminem ft. Dido
+"Stronger" — Kanye West
+"Numb" — Linkin Park
+"In the End" — Linkin Park
+"Paradise" — Coldplay
+"Skyfall" — Adele
+"Someone You Loved" — Lewis Capaldi
+"Say Something" — A Great Big World & Christina Aguilera
+"All of Me" — John Legend
+"Sugar" — Maroon 5
+"Locked Out of Heaven" — Bruno Mars
+"Just the Way You Are" — Bruno Mars
+"Happy" — Pharrell Williams
+"Radio Ga Ga" — Queen
+"Another One Bites the Dust" — Queen
+"Killer Queen" — Queen
+"Beat It" — Michael Jackson
+"Black or White" — Michael Jackson
+"Smooth" — Santana ft. Rob Thomas
+"The A Team" — Ed Sheeran
+"Photograph" — Ed Sheeran
+"Hello" — Lionel Richie
+"Diamonds" — Rihanna
+"Work" — Rihanna ft. Drake
+"Pumped Up Kicks" — Foster the People
+"Somebody That I Used to Know" — Gotye ft. Kimbra
+"Royals" — Lorde
+"Rolling in the Deep" — Adele
+"Set Fire to the Rain" — Adele
+"Demons" — Imagine Dragons
+"Thunder" — Imagine Dragons
+"New Rules" — Dua Lipa
+"Levitating" — Dua Lipa
+"Watermelon Sugar" — Harry Styles
+"Adore You" — Harry Styles
+"Circles" — Post Malone
+"Sunflower" — Post Malone & Swae Lee
+"Bad Habits" — Ed Sheeran
+"Shivers" — Ed Sheeran
+"Good 4 U" — Olivia Rodrigo
+"Drivers License" — Olivia Rodrigo
+"Montero (Call Me By Your Name)" — Lil Nas X
+"Industry Baby" — Lil Nas X ft. Jack Harlow
+"Stay" — The Kid LAROI & Justin Bieber
+"Love Story" — Taylor Swift
+"You Belong With Me" — Taylor Swift
+"Shake It Off" — Taylor Swift
+"Anti-Hero" — Taylor Swift
+"Flowers" — Miley Cyrus
+"Wrecking Ball" — Miley Cyrus
+"Party in the U.S.A." — Miley Cyrus
+"Baby" — Justin Bieber ft. Ludacris
+"Sorry" — Justin Bieber
+"What Do You Mean?" — Justin Bieber
+"Dark Horse" — Katy Perry ft. Juicy J
+"Teenage Dream" — Katy Perry
+"Hot N Cold" — Katy Perry
+"California Gurls" — Katy Perry
+"Paparazzi" — Lady Gaga
+"Just Dance" — Lady Gaga
+"Born This Way" — Lady Gaga
+"Rain on Me" — Lady Gaga & Ariana Grande
+"Thank U, Next" — Ariana Grande
+"7 Rings" — Ariana Grande
+"Side to Side" — Ariana Grande ft. Nicki Minaj
+"Bang Bang" — Jessie J, Ariana Grande & Nicki Minaj
+"Problem" — Ariana Grande ft. Iggy Azalea
+"Starboy" — The Weeknd ft. Daft Punk
+"Can’t Feel My Face" — The Weeknd
+"Save Your Tears" — The Weeknd
+"Blinding Lights" — The Weeknd
+"Rockstar" — Post Malone ft. 21 Savage
+"Congratulations" — Post Malone ft. Quavo
+"Humble" — Kendrick Lamar
+"Alright" — Kendrick Lamar
+"God’s Plan" — Drake
+"In My Feelings" — Drake
+"One Dance" — Drake ft. Wizkid & Kyla
+"Hotline Bling" — Drake
+"Shape of You" — Ed Sheeran
+"Castle on the Hill" — Ed Sheeran
+"Galway Girl" — Ed Sheeran
+"Perfect Duet" — Ed Sheeran & Beyoncé
+"Senorita" — Shawn Mendes & Camila Cabello
+"Treat You Better" — Shawn Mendes
+"Stitches" — Shawn Mendes
+"There’s Nothing Holdin’ Me Back" — Shawn Mendes
+"Memories" — Maroon 5
+"Payphone" — Maroon 5 ft. Wiz Khalifa
+"Animals" — Maroon 5
+"Girls Like You" — Maroon 5 ft. Cardi B
+"Don’t Start Now" — Dua Lipa
+"Physical" — Dua Lipa
+"Break My Heart" — Dua Lipa

@@ -1,4 +1,4 @@
-import bot.EchoBot;
+import bot.Bot;
 import config.ConfigReaderEnvironment;
 import org.telegram.telegrambots.client.okhttp.OkHttpTelegramClient;
 import org.telegram.telegrambots.longpolling.TelegramBotsLongPollingApplication;
@@ -10,7 +10,7 @@ public class Main {
 
         try (var botsApplication = new TelegramBotsLongPollingApplication()) {
             botsApplication.registerBot(botToken,
-                    new EchoBot(new OkHttpTelegramClient(botToken)));
+                    new Bot(new OkHttpTelegramClient(botToken)));
 
             System.out.println("Bot is running!");
 

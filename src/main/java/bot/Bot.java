@@ -9,20 +9,23 @@ import org.telegram.telegrambots.meta.generics.TelegramClient;
 
 import java.util.Map;
 
-public class EchoBot implements LongPollingSingleThreadUpdateConsumer {
+public class Bot implements LongPollingSingleThreadUpdateConsumer {
 
     private final TelegramClient telegramClient;
 
     private final Map<String, FileCommand> commands;
 
+    private final FileCache fileCache;
 
-    public EchoBot(TelegramClient telegramClient) {
+
+    public Bot(TelegramClient telegramClient) {
         this.telegramClient = telegramClient;
+        this.fileCache = new FileCache();
         this.commands = Map.of(
-                "/file", new CustomFileCommand(telegramClient),
-                "/pic", new PictureFileCommand(telegramClient),
-                "/video", new VideoFileCommand(telegramClient),
-                "/audio", new AudioFileCommand(telegramClient)
+                "/file", new CustomFileCommand(telegramClient, fileCache),
+                "/pic", new PictureFileCommand(telegramClient, fileCache),
+                "/video", new VideoFileCommand(telegramClient, fileCache),
+                "/audio", new AudioFileCommand(telegramClient, fileCache)
                 );
     }
 
